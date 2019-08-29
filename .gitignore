@@ -65,3 +65,4 @@ node_modules/
 .env
 
 package-lock.json
+functions/package-lock.json
